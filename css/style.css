@@ -1,0 +1,29 @@
+.avatar {
+    height: 125px;
+    width: 125px;
+    border-radius: 100%;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.avatar-box {
+    text-align: center;
+}
+
+.b-r-5px {
+    border-radius: 5px;
+}
+
+.post-icerik {
+    background-color: whitesmoke;
+    height: 200px;
+}
+
+.card-pics {
+    width: 95%;
+    height: auto;
+}
+
+.footer-row {
+    height: auto;
+}
